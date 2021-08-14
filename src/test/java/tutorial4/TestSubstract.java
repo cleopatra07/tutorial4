@@ -26,7 +26,7 @@ public class TestSubstract {
  
 	@Test
 	public void testSubstract() {
-	int result = cal.add(7,3);
+	int result = cal.substract(7,3);
 	assertEquals(result,4);
 }
  
